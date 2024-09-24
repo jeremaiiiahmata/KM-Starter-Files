@@ -1,8 +1,10 @@
-# React + Vite
+### Prerequisites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install @apollo/server @apollo/client graphql express nodemon bootstrap react-bootstrap
+  ```
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
