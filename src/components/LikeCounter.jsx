@@ -1,5 +1,8 @@
 import React, { useState } from 'react'
 
+
+// using useStates
+
 const LikeCounter = () => {
 
     const [count, setCount] = useState(0);
